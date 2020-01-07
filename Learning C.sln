@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5、计算圆的面积与�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6、计算学生平均身高", "6、计算学生平均身高\6、计算学生平均身高.vcxproj", "{3BCCBBB9-62A8-4E02-830F-845E2F6B087F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0、草稿本", "0、草稿本\0、草稿本.vcxproj", "{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5、字符常量的输出", "5、字符常量的输出\5、字符常量的输出.vcxproj", "{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +75,22 @@ Global
 		{3BCCBBB9-62A8-4E02-830F-845E2F6B087F}.Release|x64.Build.0 = Release|x64
 		{3BCCBBB9-62A8-4E02-830F-845E2F6B087F}.Release|x86.ActiveCfg = Release|Win32
 		{3BCCBBB9-62A8-4E02-830F-845E2F6B087F}.Release|x86.Build.0 = Release|Win32
+		{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}.Debug|x64.ActiveCfg = Debug|x64
+		{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}.Debug|x64.Build.0 = Debug|x64
+		{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}.Debug|x86.Build.0 = Debug|Win32
+		{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}.Release|x64.ActiveCfg = Release|x64
+		{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}.Release|x64.Build.0 = Release|x64
+		{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}.Release|x86.ActiveCfg = Release|Win32
+		{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}.Release|x86.Build.0 = Release|Win32
+		{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}.Debug|x64.ActiveCfg = Debug|x64
+		{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}.Debug|x64.Build.0 = Debug|x64
+		{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}.Debug|x86.Build.0 = Debug|Win32
+		{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}.Release|x64.ActiveCfg = Release|x64
+		{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}.Release|x64.Build.0 = Release|x64
+		{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}.Release|x86.ActiveCfg = Release|Win32
+		{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

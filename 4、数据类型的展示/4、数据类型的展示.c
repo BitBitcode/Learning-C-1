@@ -103,7 +103,7 @@ void main()
 			printf("\n");
 
 			//  注意：
-			//  （1）puts()函数不需要头文件：string.h！
+			//  （1）puts()函数需要头文件：string.h！
 			//  （2）C++ 中可以使用 puts()函数！
 
 			//  显示整型变量的简写名称

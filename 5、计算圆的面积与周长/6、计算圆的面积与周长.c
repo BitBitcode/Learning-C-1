@@ -4,7 +4,7 @@
 // 5、计算圆的面积与周长
 
 # include <stdio.h>
-# define PAI 3.14		// 定义符号常量——圆周率PAI
+# define PAI 3.14	// 定义符号常量（即“标识符”）——圆周率PAI（符号常量通常用大写字母表示）
 
 void main()
 {
