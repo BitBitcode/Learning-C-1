@@ -14,7 +14,7 @@ void main()
 
 	printf("请输入琪亚娜的身高：");
 	scanf_s("%f", &height_Kiana);
-	
+
 	printf("请输入芽衣的身高：");
 	scanf_s("%f", &height_Mei);
 

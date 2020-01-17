@@ -14,10 +14,10 @@ void main()
 
 	printf("请输入圆的半径：");
 	scanf_s("%lf", &r);
-	
+
 	// 计算圆的面积
 	S = PAI * r * r;
-	
+
 	// 计算圆的周长
 	L = 2 * PAI * r;
 
