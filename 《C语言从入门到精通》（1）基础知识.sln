@@ -3,25 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1、输出一个正方形", "1、输出一个正方形\1、输出一个正方形.vcxproj", "{A84B47D7-2C49-4EEA-88F9-4118AC4368C4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01、输出一个正方形", "1、输出一个正方形\1、输出一个正方形.vcxproj", "{A84B47D7-2C49-4EEA-88F9-4118AC4368C4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2、十进制转换为十六进制", "2、十进制转换为十六进制\2、十进制转换为十六进制.vcxproj", "{A849D104-5A0B-4D5F-81A0-01CF6DB16295}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02、十进制转换为十六进制", "2、十进制转换为十六进制\2、十进制转换为十六进制.vcxproj", "{A849D104-5A0B-4D5F-81A0-01CF6DB16295}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3、三个数由小到大排列", "3、三个数由小到大排列\3、三个数由小到大排列.vcxproj", "{38065A6D-145F-4CE8-9545-85C20DFEBD31}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03、三个数由小到大排列", "3、三个数由小到大排列\3、三个数由小到大排列.vcxproj", "{38065A6D-145F-4CE8-9545-85C20DFEBD31}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4、数据类型的展示", "4、数据类型的展示\4、数据类型的展示.vcxproj", "{3D2EBC8D-A319-4BF6-82B6-30981CE57B09}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04、数据类型的展示", "4、数据类型的展示\4、数据类型的展示.vcxproj", "{3D2EBC8D-A319-4BF6-82B6-30981CE57B09}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0、草稿本", "0、草稿本\0、草稿本.vcxproj", "{ED28449A-2A88-4AAB-8562-DD7CFB4EC534}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5、字符常量的输出", "5、字符常量的输出\5、字符常量的输出.vcxproj", "{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05、字符常量的输出", "5、字符常量的输出\5、字符常量的输出.vcxproj", "{BACC04DE-D04E-4979-9BD2-E6827FCAB7B9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6、计算圆的面积与周长", "6、计算圆的面积与周长\6、计算圆的面积与周长.vcxproj", "{BC933C29-6943-4586-9942-A43FAE323219}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06、计算圆的面积与周长", "6、计算圆的面积与周长\6、计算圆的面积与周长.vcxproj", "{BC933C29-6943-4586-9942-A43FAE323219}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7、计算学生平均身高", "7、计算学生平均身高\7、计算学生平均身高.vcxproj", "{48A69986-D466-4543-8ECF-CAE862DAABA8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07、计算学生平均身高", "7、计算学生平均身高\7、计算学生平均身高.vcxproj", "{48A69986-D466-4543-8ECF-CAE862DAABA8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8、字符型变量", "8、字符型变量\8、字符型变量.vcxproj", "{697303BE-4B27-4CC7-9549-EA181B5F05B3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08、使用字符型变量", "8、字符型变量\8、字符型变量.vcxproj", "{697303BE-4B27-4CC7-9549-EA181B5F05B3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9、数据类型的转换", "9、数据类型的转换\9、数据类型的转换.vcxproj", "{C5435186-81DE-4946-BA1E-4900CDFF41C3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09、数据类型的转换", "9、数据类型的转换\9、数据类型的转换.vcxproj", "{C5435186-81DE-4946-BA1E-4900CDFF41C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10、运算符与表达式", "10、运算符与表达式\10、运算符与表达式.vcxproj", "{7A883BAA-FF22-42B6-9E1E-4EDB0955E91D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11、判断闰年", "11、判断闰年\11、判断闰年.vcxproj", "{BD6FA658-D003-4B17-BCFB-B5BD4450CBFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12、判断整数倍", "12、判断整数倍\12、判断整数倍.vcxproj", "{1EC01F04-3F7E-4474-9315-9591A7A5E44B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13、检查字符类型", "13、检查字符类型\13、检查字符类型.vcxproj", "{9C7778A0-EAB5-47AE-B223-B0FAB9DAE965}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14、判断三角形的类型", "14、判断三角形的类型\14、判断三角形的类型.vcxproj", "{CBA8FDB1-5DFC-4834-B909-8F24E0450297}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +121,46 @@ Global
 		{C5435186-81DE-4946-BA1E-4900CDFF41C3}.Release|x64.Build.0 = Release|x64
 		{C5435186-81DE-4946-BA1E-4900CDFF41C3}.Release|x86.ActiveCfg = Release|Win32
 		{C5435186-81DE-4946-BA1E-4900CDFF41C3}.Release|x86.Build.0 = Release|Win32
+		{7A883BAA-FF22-42B6-9E1E-4EDB0955E91D}.Debug|x64.ActiveCfg = Debug|x64
+		{7A883BAA-FF22-42B6-9E1E-4EDB0955E91D}.Debug|x64.Build.0 = Debug|x64
+		{7A883BAA-FF22-42B6-9E1E-4EDB0955E91D}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A883BAA-FF22-42B6-9E1E-4EDB0955E91D}.Debug|x86.Build.0 = Debug|Win32
+		{7A883BAA-FF22-42B6-9E1E-4EDB0955E91D}.Release|x64.ActiveCfg = Release|x64
+		{7A883BAA-FF22-42B6-9E1E-4EDB0955E91D}.Release|x64.Build.0 = Release|x64
+		{7A883BAA-FF22-42B6-9E1E-4EDB0955E91D}.Release|x86.ActiveCfg = Release|Win32
+		{7A883BAA-FF22-42B6-9E1E-4EDB0955E91D}.Release|x86.Build.0 = Release|Win32
+		{BD6FA658-D003-4B17-BCFB-B5BD4450CBFD}.Debug|x64.ActiveCfg = Debug|x64
+		{BD6FA658-D003-4B17-BCFB-B5BD4450CBFD}.Debug|x64.Build.0 = Debug|x64
+		{BD6FA658-D003-4B17-BCFB-B5BD4450CBFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD6FA658-D003-4B17-BCFB-B5BD4450CBFD}.Debug|x86.Build.0 = Debug|Win32
+		{BD6FA658-D003-4B17-BCFB-B5BD4450CBFD}.Release|x64.ActiveCfg = Release|x64
+		{BD6FA658-D003-4B17-BCFB-B5BD4450CBFD}.Release|x64.Build.0 = Release|x64
+		{BD6FA658-D003-4B17-BCFB-B5BD4450CBFD}.Release|x86.ActiveCfg = Release|Win32
+		{BD6FA658-D003-4B17-BCFB-B5BD4450CBFD}.Release|x86.Build.0 = Release|Win32
+		{1EC01F04-3F7E-4474-9315-9591A7A5E44B}.Debug|x64.ActiveCfg = Debug|x64
+		{1EC01F04-3F7E-4474-9315-9591A7A5E44B}.Debug|x64.Build.0 = Debug|x64
+		{1EC01F04-3F7E-4474-9315-9591A7A5E44B}.Debug|x86.ActiveCfg = Debug|Win32
+		{1EC01F04-3F7E-4474-9315-9591A7A5E44B}.Debug|x86.Build.0 = Debug|Win32
+		{1EC01F04-3F7E-4474-9315-9591A7A5E44B}.Release|x64.ActiveCfg = Release|x64
+		{1EC01F04-3F7E-4474-9315-9591A7A5E44B}.Release|x64.Build.0 = Release|x64
+		{1EC01F04-3F7E-4474-9315-9591A7A5E44B}.Release|x86.ActiveCfg = Release|Win32
+		{1EC01F04-3F7E-4474-9315-9591A7A5E44B}.Release|x86.Build.0 = Release|Win32
+		{9C7778A0-EAB5-47AE-B223-B0FAB9DAE965}.Debug|x64.ActiveCfg = Debug|x64
+		{9C7778A0-EAB5-47AE-B223-B0FAB9DAE965}.Debug|x64.Build.0 = Debug|x64
+		{9C7778A0-EAB5-47AE-B223-B0FAB9DAE965}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C7778A0-EAB5-47AE-B223-B0FAB9DAE965}.Debug|x86.Build.0 = Debug|Win32
+		{9C7778A0-EAB5-47AE-B223-B0FAB9DAE965}.Release|x64.ActiveCfg = Release|x64
+		{9C7778A0-EAB5-47AE-B223-B0FAB9DAE965}.Release|x64.Build.0 = Release|x64
+		{9C7778A0-EAB5-47AE-B223-B0FAB9DAE965}.Release|x86.ActiveCfg = Release|Win32
+		{9C7778A0-EAB5-47AE-B223-B0FAB9DAE965}.Release|x86.Build.0 = Release|Win32
+		{CBA8FDB1-5DFC-4834-B909-8F24E0450297}.Debug|x64.ActiveCfg = Debug|x64
+		{CBA8FDB1-5DFC-4834-B909-8F24E0450297}.Debug|x64.Build.0 = Debug|x64
+		{CBA8FDB1-5DFC-4834-B909-8F24E0450297}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBA8FDB1-5DFC-4834-B909-8F24E0450297}.Debug|x86.Build.0 = Debug|Win32
+		{CBA8FDB1-5DFC-4834-B909-8F24E0450297}.Release|x64.ActiveCfg = Release|x64
+		{CBA8FDB1-5DFC-4834-B909-8F24E0450297}.Release|x64.Build.0 = Release|x64
+		{CBA8FDB1-5DFC-4834-B909-8F24E0450297}.Release|x86.ActiveCfg = Release|Win32
+		{CBA8FDB1-5DFC-4834-B909-8F24E0450297}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
