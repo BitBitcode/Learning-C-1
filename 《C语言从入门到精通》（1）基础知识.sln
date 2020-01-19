@@ -43,6 +43,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18、使用字符函数输�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19、求一元二次方程的根", "19、求一元二次方程的根\19、求一元二次方程的根.vcxproj", "{07BFD25D-2863-43C7-8BD3-ACDA0A6A1E46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20、求直角三角形的斜边", "20、求直角三角形的斜边\20、求直角三角形的斜边.vcxproj", "{99F7D8F5-17A2-4974-89AA-BB910E9717AE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21、用 if 编写控制台菜单", "21、用 if 编写控制台菜单\21、用 if 编写控制台菜单.vcxproj", "{97BF2EA3-7701-4FA4-A7DC-0B27DD726CBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +215,22 @@ Global
 		{07BFD25D-2863-43C7-8BD3-ACDA0A6A1E46}.Release|x64.Build.0 = Release|x64
 		{07BFD25D-2863-43C7-8BD3-ACDA0A6A1E46}.Release|x86.ActiveCfg = Release|Win32
 		{07BFD25D-2863-43C7-8BD3-ACDA0A6A1E46}.Release|x86.Build.0 = Release|Win32
+		{99F7D8F5-17A2-4974-89AA-BB910E9717AE}.Debug|x64.ActiveCfg = Debug|x64
+		{99F7D8F5-17A2-4974-89AA-BB910E9717AE}.Debug|x64.Build.0 = Debug|x64
+		{99F7D8F5-17A2-4974-89AA-BB910E9717AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{99F7D8F5-17A2-4974-89AA-BB910E9717AE}.Debug|x86.Build.0 = Debug|Win32
+		{99F7D8F5-17A2-4974-89AA-BB910E9717AE}.Release|x64.ActiveCfg = Release|x64
+		{99F7D8F5-17A2-4974-89AA-BB910E9717AE}.Release|x64.Build.0 = Release|x64
+		{99F7D8F5-17A2-4974-89AA-BB910E9717AE}.Release|x86.ActiveCfg = Release|Win32
+		{99F7D8F5-17A2-4974-89AA-BB910E9717AE}.Release|x86.Build.0 = Release|Win32
+		{97BF2EA3-7701-4FA4-A7DC-0B27DD726CBA}.Debug|x64.ActiveCfg = Debug|x64
+		{97BF2EA3-7701-4FA4-A7DC-0B27DD726CBA}.Debug|x64.Build.0 = Debug|x64
+		{97BF2EA3-7701-4FA4-A7DC-0B27DD726CBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{97BF2EA3-7701-4FA4-A7DC-0B27DD726CBA}.Debug|x86.Build.0 = Debug|Win32
+		{97BF2EA3-7701-4FA4-A7DC-0B27DD726CBA}.Release|x64.ActiveCfg = Release|x64
+		{97BF2EA3-7701-4FA4-A7DC-0B27DD726CBA}.Release|x64.Build.0 = Release|x64
+		{97BF2EA3-7701-4FA4-A7DC-0B27DD726CBA}.Release|x86.ActiveCfg = Release|Win32
+		{97BF2EA3-7701-4FA4-A7DC-0B27DD726CBA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
