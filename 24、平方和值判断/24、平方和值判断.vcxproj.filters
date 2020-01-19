@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.c">
+    <ClCompile Include="24、平方和值判断.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
