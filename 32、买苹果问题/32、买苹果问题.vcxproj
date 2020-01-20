@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{5665C943-C414-4DAE-BB7B-9D752E0636EC}</ProjectGuid>
+    <ProjectGuid>{E026B3ED-3167-4A52-BA53-B1DE92BFF4B6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My30计算从1加到100的结果</RootNamespace>
+    <RootNamespace>My32买苹果问题</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>30、用 while 求1到100的和</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -148,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="30、计算从1加到100的结果.c" />
+    <ClCompile Include="32、买苹果问题.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
