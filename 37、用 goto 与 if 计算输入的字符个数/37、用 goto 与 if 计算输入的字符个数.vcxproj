@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{C3476FD5-DB2B-4BE8-B6DA-CE0182471CAC}</ProjectGuid>
+    <ProjectGuid>{63342509-309D-4E0F-8072-4287AAE83086}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My34用循环语句打印一个金字塔</RootNamespace>
+    <RootNamespace>My37用goto与if计算输入的字符个数</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="34、用循环语句打印一个金字塔.c" />
+    <ClCompile Include="37、用 goto 与 if 计算输入的字符个数.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

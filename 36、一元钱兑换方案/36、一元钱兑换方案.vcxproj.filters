@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="29、判断某月有几天.c">
+    <ClCompile Include="36、一元钱兑换方案.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

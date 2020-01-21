@@ -73,6 +73,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "33、用 for 求1到100的�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34、用循环语句打印一个金字塔", "34、用循环语句打印一个金字塔\34、用循环语句打印一个金字塔.vcxproj", "{C3476FD5-DB2B-4BE8-B6DA-CE0182471CAC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35、统计不及格人数", "35、统计各等级成绩的人数\35、统计各等级成绩的人数.vcxproj", "{1ACD3BB3-B83C-4146-BF3E-D6B7DBD26C01}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "36、一元钱兑换方案", "36、一元钱兑换方案\36、一元钱兑换方案.vcxproj", "{41143747-CB00-4A53-804B-85A56247024D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "37、用 goto 与 if 计算输入的字符个数", "37、用 goto 与 if 计算输入的字符个数\37、用 goto 与 if 计算输入的字符个数.vcxproj", "{63342509-309D-4E0F-8072-4287AAE83086}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "38、用 goto 编写实用的可退出循环菜单", "38、用 goto 编写实用的可退出循环菜单\38、用 goto 编写实用的可退出循环菜单.vcxproj", "{F806C23F-F2D2-462B-81E8-E3565CAB4801}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -361,6 +369,38 @@ Global
 		{C3476FD5-DB2B-4BE8-B6DA-CE0182471CAC}.Release|x64.Build.0 = Release|x64
 		{C3476FD5-DB2B-4BE8-B6DA-CE0182471CAC}.Release|x86.ActiveCfg = Release|Win32
 		{C3476FD5-DB2B-4BE8-B6DA-CE0182471CAC}.Release|x86.Build.0 = Release|Win32
+		{1ACD3BB3-B83C-4146-BF3E-D6B7DBD26C01}.Debug|x64.ActiveCfg = Debug|x64
+		{1ACD3BB3-B83C-4146-BF3E-D6B7DBD26C01}.Debug|x64.Build.0 = Debug|x64
+		{1ACD3BB3-B83C-4146-BF3E-D6B7DBD26C01}.Debug|x86.ActiveCfg = Debug|Win32
+		{1ACD3BB3-B83C-4146-BF3E-D6B7DBD26C01}.Debug|x86.Build.0 = Debug|Win32
+		{1ACD3BB3-B83C-4146-BF3E-D6B7DBD26C01}.Release|x64.ActiveCfg = Release|x64
+		{1ACD3BB3-B83C-4146-BF3E-D6B7DBD26C01}.Release|x64.Build.0 = Release|x64
+		{1ACD3BB3-B83C-4146-BF3E-D6B7DBD26C01}.Release|x86.ActiveCfg = Release|Win32
+		{1ACD3BB3-B83C-4146-BF3E-D6B7DBD26C01}.Release|x86.Build.0 = Release|Win32
+		{41143747-CB00-4A53-804B-85A56247024D}.Debug|x64.ActiveCfg = Debug|x64
+		{41143747-CB00-4A53-804B-85A56247024D}.Debug|x64.Build.0 = Debug|x64
+		{41143747-CB00-4A53-804B-85A56247024D}.Debug|x86.ActiveCfg = Debug|Win32
+		{41143747-CB00-4A53-804B-85A56247024D}.Debug|x86.Build.0 = Debug|Win32
+		{41143747-CB00-4A53-804B-85A56247024D}.Release|x64.ActiveCfg = Release|x64
+		{41143747-CB00-4A53-804B-85A56247024D}.Release|x64.Build.0 = Release|x64
+		{41143747-CB00-4A53-804B-85A56247024D}.Release|x86.ActiveCfg = Release|Win32
+		{41143747-CB00-4A53-804B-85A56247024D}.Release|x86.Build.0 = Release|Win32
+		{63342509-309D-4E0F-8072-4287AAE83086}.Debug|x64.ActiveCfg = Debug|x64
+		{63342509-309D-4E0F-8072-4287AAE83086}.Debug|x64.Build.0 = Debug|x64
+		{63342509-309D-4E0F-8072-4287AAE83086}.Debug|x86.ActiveCfg = Debug|Win32
+		{63342509-309D-4E0F-8072-4287AAE83086}.Debug|x86.Build.0 = Debug|Win32
+		{63342509-309D-4E0F-8072-4287AAE83086}.Release|x64.ActiveCfg = Release|x64
+		{63342509-309D-4E0F-8072-4287AAE83086}.Release|x64.Build.0 = Release|x64
+		{63342509-309D-4E0F-8072-4287AAE83086}.Release|x86.ActiveCfg = Release|Win32
+		{63342509-309D-4E0F-8072-4287AAE83086}.Release|x86.Build.0 = Release|Win32
+		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Debug|x64.ActiveCfg = Debug|x64
+		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Debug|x64.Build.0 = Debug|x64
+		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Debug|x86.ActiveCfg = Debug|Win32
+		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Debug|x86.Build.0 = Debug|Win32
+		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Release|x64.ActiveCfg = Release|x64
+		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Release|x64.Build.0 = Release|x64
+		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Release|x86.ActiveCfg = Release|Win32
+		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

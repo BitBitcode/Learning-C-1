@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="33、用 for 求1到100的和.cpp">
+    <ClCompile Include="33、用 for 求1到100的和.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

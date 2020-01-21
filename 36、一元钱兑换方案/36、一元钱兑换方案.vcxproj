@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{C3476FD5-DB2B-4BE8-B6DA-CE0182471CAC}</ProjectGuid>
+    <ProjectGuid>{41143747-CB00-4A53-804B-85A56247024D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My34用循环语句打印一个金字塔</RootNamespace>
+    <RootNamespace>My36一元钱兑换方案</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="34、用循环语句打印一个金字塔.c" />
+    <ClCompile Include="36、一元钱兑换方案.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

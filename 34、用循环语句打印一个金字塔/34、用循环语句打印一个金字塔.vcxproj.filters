@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="34、用循环语句打印一个金字塔.cpp">
+    <ClCompile Include="34、用循环语句打印一个金字塔.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

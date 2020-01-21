@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="30、计算从1加到100的结果.c">
+    <ClCompile Include="30、用 while 求1到100的和.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

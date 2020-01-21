@@ -8,8 +8,8 @@
 void main()
 {
 	int i;		// 空格的计数变量
-	int j = 1;	// 星号的计数变量
-	int n;		// 想打印的层数
+	int j;		// 星号的计数变量
+	int n;		// 想打印的层数（总层数）
 	int m = 1;	// 当前的层数
 
 	printf("输入想打印的层数：\n");
@@ -17,7 +17,7 @@ void main()
 
 	for (m = 1; m <= n; m++)
 	{
-		for (i = 1; i <= (n - m); i++)					// 第 m 层的空格数是 (n-m) 个
+		for (i = 1; i <= (n - m); i++)			// 第 m 层的空格数是 (n-m) 个
 		{
 			printf(" ");
 		}
