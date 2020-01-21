@@ -14,16 +14,23 @@
 
 
 ## 更新日志
-  + （假装有更新，好吧，只是为了让README看起来更丰满）
-    + 2020.1.21：第一部分结课
-    + 2020.1.7：开始学习
+（假装有更新，好吧，只是为了让README看起来更丰满）
+  + 2020.1.21：第一部分结课
+  + 2020.1.7：开始学习
 
 
 ## 更多信息
   + **关于该书**
     + 书名：《C语言从入门到精通》
     + 出版社：清华大学出版社
-    + 官方网站：[明日科技图书](https://www.mingribook.com)（如果链接打不开请手动输入：www.mingribook.com ）
+    + 官方网站：[明日科技图书](https://www.mingribook.com)
+      + 如果链接打不开请手动输入：www.mingribook.com
+      
+  + **关于作者**
+    + 个人网页：[BitBitcode的个人主页](https://bitbitcode.github.io/)
+      + 欢迎访问（＾-＾）
+      + 如果链接打不开请手动输入：https://bitbitcode.github.io/
+    + 个人邮箱：smilewwc@qq.com
 
   + **原创代码清单**
     + “4、数据类型的展示”
