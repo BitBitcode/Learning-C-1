@@ -24,7 +24,7 @@ void main()
 	{
 		printf("1、演示模式（自动讲解所有数据类型）\n");
 		printf("----------------------------------------------------------------\n\n");
-		
+
 		printf("一、数据结构分为四种类型:\n\n");
 		printf("	1、基本类型：\n");
 		printf("		（1）整型：短整型，基本整型，长整型；\n");
@@ -131,14 +131,14 @@ void main()
 
 			// 获取用户输入的词
 			printf("输入你要查询的数据类型关键词，按回车结束。\n");
-			char s[18] = { "xxxxSTxxxxxxxxxxxE" };  //  18个字符
+			char s[19] = { "xxxxSTxxxxxxxxxxxE" };  //  18个字符
 			getchar();
 			// 如果get()函数前面用过了scanf()函数，会产生一个多余的回车
 
 			//scanf_s("%s",s,18);
 			//  用scanf_s()函数输入字符串的时候，需要加上字符串长度（防止溢出）
 
-			gets_s ( s, 18 );
+			gets_s(s, 18);
 			//  注意：
 			//  （1）gets()函数需要头文件：string.h！
 			//  （2）C++ 中不能使用gets()函数！
@@ -177,7 +177,7 @@ void main()
 					}
 				}
 
-				if (s[1] == 'l' && s[2] == 'o' && s[3] == 'a' && s[4] == 't' && t==1)
+				if (s[1] == 'l' && s[2] == 'o' && s[3] == 'a' && s[4] == 't' && t == 1)
 				{
 					n = 7;
 					printf("分支 1 查询到：");
@@ -276,12 +276,12 @@ void main()
 			//  分支 6：
 			else if (s[0] == 'u')    //  3种情况：unsigned int，unsigned short int，unsigned long int
 			{
-			    if (s[1] == 'n')    // unsigned
-			    {
-				    n = 2;
-			    	printf("查询到：");
-				    puts(w2);
-			    }
+				if (s[1] == 'n')    // unsigned
+				{
+					n = 2;
+					printf("查询到：");
+					puts(w2);
+				}
 				if (s[9] == 'i')    // unsigned int
 				{
 					n = 2;
@@ -326,7 +326,7 @@ void main()
 			{
 				printf("所有分支都没有查询到该关键词，请检查输入是否正确！\n\n");
 			}
-			
+
 			printf("\n");
 
 			//  介绍部分
@@ -334,7 +334,7 @@ void main()
 			switch (n)
 			{
 			case 1:
-			    break;
+				break;
 			case 2:
 			   break;
 			case 3:
@@ -346,7 +346,7 @@ void main()
 			case 6:
 			   break;
 			default:
-			    break
+				break
 			}
 			*/
 
@@ -357,6 +357,6 @@ void main()
 	//  错误输入的处理（将来考虑加入循环体，否则需要重新启动程序。已加入死循环，哈哈）
 	else
 	{
-	    printf("没有此序号！请输入有效数字！");
+		printf("没有此序号！请输入有效数字！");
 	}
 }

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1、输出一个正方形.c">
+    <ClCompile Include="08、使用字符型变量.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

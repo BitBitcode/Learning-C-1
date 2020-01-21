@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2、十进制转换为十六进制.c">
+    <ClCompile Include="02、三个数由小到大排列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

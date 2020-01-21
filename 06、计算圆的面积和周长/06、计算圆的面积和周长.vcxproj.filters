@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="8、使用字符型变量.c">
+    <ClCompile Include="06、计算圆的面积和周长.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

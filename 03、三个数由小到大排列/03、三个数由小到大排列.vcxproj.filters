@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="6、计算圆的面积与周长.c">
+    <ClCompile Include="03、三个数由小到大排列.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

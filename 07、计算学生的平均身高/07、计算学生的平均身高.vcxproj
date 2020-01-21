@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{C5435186-81DE-4946-BA1E-4900CDFF41C3}</ProjectGuid>
+    <ProjectGuid>{28A65B39-C7EB-426F-A2BC-BADEE802882A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My9数据类型的转换</RootNamespace>
+    <RootNamespace>My07计算学生的平均身高</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>09、数据类型的转换</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -148,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="9、数据类型的转换.c" />
+    <ClCompile Include="07、计算学生的平均身高.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4、数据类型的展示.c">
+    <ClCompile Include="07、计算学生的平均身高.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
