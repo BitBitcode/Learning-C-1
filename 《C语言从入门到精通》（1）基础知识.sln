@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "37、用 goto 与 if 计算
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "38、用 goto 编写实用的可退出循环菜单", "38、用 goto 编写实用的可退出循环菜单\38、用 goto 编写实用的可退出循环菜单.vcxproj", "{F806C23F-F2D2-462B-81E8-E3565CAB4801}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "39、偶数拆分为两个素数", "39、偶数拆分为两个素数\39、偶数拆分为两个素数.vcxproj", "{4FA61C6C-87CC-4692-842F-EFC92571DBF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -401,6 +403,14 @@ Global
 		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Release|x64.Build.0 = Release|x64
 		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Release|x86.ActiveCfg = Release|Win32
 		{F806C23F-F2D2-462B-81E8-E3565CAB4801}.Release|x86.Build.0 = Release|Win32
+		{4FA61C6C-87CC-4692-842F-EFC92571DBF2}.Debug|x64.ActiveCfg = Debug|x64
+		{4FA61C6C-87CC-4692-842F-EFC92571DBF2}.Debug|x64.Build.0 = Debug|x64
+		{4FA61C6C-87CC-4692-842F-EFC92571DBF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FA61C6C-87CC-4692-842F-EFC92571DBF2}.Debug|x86.Build.0 = Debug|Win32
+		{4FA61C6C-87CC-4692-842F-EFC92571DBF2}.Release|x64.ActiveCfg = Release|x64
+		{4FA61C6C-87CC-4692-842F-EFC92571DBF2}.Release|x64.Build.0 = Release|x64
+		{4FA61C6C-87CC-4692-842F-EFC92571DBF2}.Release|x86.ActiveCfg = Release|Win32
+		{4FA61C6C-87CC-4692-842F-EFC92571DBF2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
