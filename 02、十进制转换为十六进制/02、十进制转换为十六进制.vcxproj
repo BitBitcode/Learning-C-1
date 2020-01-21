@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{6A0C05B9-FE84-4775-8B62-60BD47DAE0D3}</ProjectGuid>
+    <ProjectGuid>{900F0953-FDB1-49E6-8891-2ED5EDDC3BFA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My02三个数由小到大排列</RootNamespace>
+    <RootNamespace>My02十进制转换为十六进制</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="02、三个数由小到大排列.cpp" />
+    <ClCompile Include="02、十进制转换为十六进制.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
