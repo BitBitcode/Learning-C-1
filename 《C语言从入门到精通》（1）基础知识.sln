@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09、数据类型的转换"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02、十进制转换为十六进制", "02、十进制转换为十六进制\02、十进制转换为十六进制.vcxproj", "{900F0953-FDB1-49E6-8891-2ED5EDDC3BFA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "40、打印乘法口诀表", "40、打印乘法口诀表\40、打印乘法口诀表.vcxproj", "{F819B791-6AD1-4983-96F4-BD74D39E1258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -401,6 +403,14 @@ Global
 		{900F0953-FDB1-49E6-8891-2ED5EDDC3BFA}.Release|x64.Build.0 = Release|x64
 		{900F0953-FDB1-49E6-8891-2ED5EDDC3BFA}.Release|x86.ActiveCfg = Release|Win32
 		{900F0953-FDB1-49E6-8891-2ED5EDDC3BFA}.Release|x86.Build.0 = Release|Win32
+		{F819B791-6AD1-4983-96F4-BD74D39E1258}.Debug|x64.ActiveCfg = Debug|x64
+		{F819B791-6AD1-4983-96F4-BD74D39E1258}.Debug|x64.Build.0 = Debug|x64
+		{F819B791-6AD1-4983-96F4-BD74D39E1258}.Debug|x86.ActiveCfg = Debug|Win32
+		{F819B791-6AD1-4983-96F4-BD74D39E1258}.Debug|x86.Build.0 = Debug|Win32
+		{F819B791-6AD1-4983-96F4-BD74D39E1258}.Release|x64.ActiveCfg = Release|x64
+		{F819B791-6AD1-4983-96F4-BD74D39E1258}.Release|x64.Build.0 = Release|x64
+		{F819B791-6AD1-4983-96F4-BD74D39E1258}.Release|x86.ActiveCfg = Release|Win32
+		{F819B791-6AD1-4983-96F4-BD74D39E1258}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
