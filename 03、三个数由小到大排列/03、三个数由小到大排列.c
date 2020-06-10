@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-main()
+int main()
 {
 	//  定义变量，获取用户输入的数字
 	int num_1, num_2, num_3, trans;
@@ -47,4 +47,6 @@ main()
 
 	printf("您所输入的数字按从小到大排列为：%d，%d，%d。", num_1, num_2, num_3);
 	//  输出的内容是将引号内的部分插入到输出流中，所以引号内的标点符号是中文的也可以正常运行
+
+	return 0;
 }

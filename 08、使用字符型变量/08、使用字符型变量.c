@@ -4,7 +4,8 @@
 // 8、使用字符型变量
 
 #include <stdio.h>
-void main()
+
+int main()
 {
 	// 定义两个字符型变量，其中一个赋值为字符，另一个赋值为数字
 	char latter_1 = 'a';
@@ -27,4 +28,6 @@ void main()
 	printf("%d \n", latter_2);
 	printf("%c \n", number_1);
 	printf("%d \n", number_2);
+
+	return 0;
 }

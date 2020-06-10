@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-void main()
+int main()
 {
 	float height_Kiana;
 	float height_Mei;
@@ -23,4 +23,6 @@ void main()
 
 	average = (height_Kiana + height_Mei + height_Bronya) / 3;
 	printf("御三家的平均身高是(→_→)：%f", average);
+
+	return 0;
 }

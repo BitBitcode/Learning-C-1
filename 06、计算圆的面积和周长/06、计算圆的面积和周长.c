@@ -6,7 +6,7 @@
 # include <stdio.h>
 # define PAI 3.14	// 定义符号常量（即“标识符”）——圆周率PAI（符号常量通常用大写字母表示）
 
-void main()
+int main()
 {
 	double r;		// 定义圆的半径
 	double S;		// 定义圆的面积
@@ -23,4 +23,6 @@ void main()
 
 	printf("圆的面积 = %lf \n", S);
 	printf("圆的周长 = %lf \n", L);
+
+	return 0;
 }

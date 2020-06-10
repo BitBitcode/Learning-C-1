@@ -10,12 +10,14 @@
 
 #include<stdio.h>
 
-main()
+int main()
 {
 	int i;
 	printf("请输入待转换的十进制数字\n");
 	scanf_s("%d", &i);						//  %d表示输入的数字为十进制，&i表示将值赋予i
 	printf("该数字的十六进制为：%X", i);		//  将i的值以十六进制的形式输出
+
+	return 0;
 }
 
 // 理解输入输出格式控制符中进制符的使用：

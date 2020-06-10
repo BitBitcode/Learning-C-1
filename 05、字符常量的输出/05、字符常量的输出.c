@@ -10,7 +10,7 @@
 
 #include <stdio.h>
 
-void main()
+int main()
 {
 	putchar('H');
 	putchar('e');
@@ -18,4 +18,6 @@ void main()
 	putchar('l');
 	putchar('o');
 	putchar('\n');
+
+	return 0;
 }

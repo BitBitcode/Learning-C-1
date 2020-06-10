@@ -4,11 +4,14 @@
 // 1、输出一个正方形
 
 #include<stdio.h>
-main()
+
+int main()
 {
 	printf("* * * * *\n");
 	printf("*       *\n");
 	printf("*       *\n");
 	printf("*       *\n");
 	printf("* * * * *\n");
+
+	return 0;
 }
