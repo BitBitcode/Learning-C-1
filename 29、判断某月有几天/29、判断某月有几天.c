@@ -7,10 +7,10 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int month;
-	printf("请输入要查询的月份");
+	printf("请输入要查询的月份：\n");
 	scanf_s("%d", &month);
 
 	switch (month)
@@ -36,4 +36,6 @@ void main()
 	default:
 		printf("%d不是月哦，重新输入", month);
 	}
+
+	return 0;
 }

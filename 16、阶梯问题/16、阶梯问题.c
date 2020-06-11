@@ -15,7 +15,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int i;
 
@@ -28,7 +28,7 @@ void main()
 		}
 	}
 	
-	printf("满足条件的两位数阶梯数为：\n");
+	printf("满足条件的三位数阶梯数为：\n");
 	for (i = 100; i < 1000; i++)
 	{
 		if (i % 2 == 1 && i % 3 == 2 && i % 5 == 4 && i % 6 == 5 && i % 7 == 0)
@@ -36,4 +36,6 @@ void main()
 			printf("%d,\n", i);
 		}
 	}
+
+	return 0;
 }

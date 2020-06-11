@@ -6,7 +6,7 @@
 #include<stdio.h>
 #include<stdlib.h>		// system() 函数需要的头文件
 
-void main()
+int main()
 {
 	int m;			// 选择菜单模式的数字变量
 	char c;			// 选择确认或取消的字符变量
@@ -118,7 +118,7 @@ Exit:				// 标签：菜单“退出”的确认部分
 			goto RE2;
 		}
 	}
-// 退出部分还可以用“massagebox”和“exit()”来写（用到了其他的库）
+// 退出部分还可以用“massagebox”和“exit()”来写（需要其他库）
 
 End:return 0;		// 标签：程序结束，主函数返回
 }

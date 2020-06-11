@@ -24,7 +24,7 @@ int palind(char str[], int k, int i)
 }
 
 // 主函数部分
-void main()
+int main()
 {
     int i = 0, n = 0;
     char ch, str[20];
@@ -55,4 +55,6 @@ void main()
     {
         printf("是回文数！");
     }
+
+    return 0;
 }

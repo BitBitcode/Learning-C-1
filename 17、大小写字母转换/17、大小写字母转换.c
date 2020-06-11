@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	char latter;
 	int m;
@@ -28,6 +28,8 @@ void main()
 		latter = latter + 32;
 		printf("小写字母为：%c \n", latter);
 	}
+
+	return 0;
 }
 
 // 注意：scanf()和getchar()混用的时候容易出现错误（getchar()取走了内存中的字符，如果内存中有字符，就会发生没有输入但是继续运行的情况）

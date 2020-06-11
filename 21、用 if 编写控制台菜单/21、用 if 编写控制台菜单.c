@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int m;
 
@@ -39,4 +39,6 @@ void main()
 	{
 		printf("请输入有效数字！\n");
 	}
+	
+	return 0;
 }

@@ -6,7 +6,7 @@
 #include<stdio.h>
 #include<math.h>
 
-void main()
+int main()
 {
 	int a, b, c;
 	float x1, x2, d;
@@ -24,8 +24,7 @@ void main()
 	{
 		x1 = (-b + sqrt(d)) / 2 * a;
 		x2 = (-b - sqrt(d)) / 2 * a;
-		printf("x1=%f, x2=%f", x1, x2);
-		
+		printf("x1=%f, x2=%f", x1, x2);		
 	}
 	else if (d == 0)
 	{
@@ -34,6 +33,8 @@ void main()
 	}
 	else if (d < 0)
 	{
-		printf("GNMB");
+		printf("复根\n");
 	}
+
+	return 0;
 }

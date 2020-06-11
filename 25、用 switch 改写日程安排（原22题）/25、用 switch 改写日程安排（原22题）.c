@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int day=0;
 	printf("请输入星期（1~7）：\n");
@@ -31,6 +31,8 @@ void main()
 	default:
 		printf("请输入有效的数字！（数字1~7，按回车确认）\n");
 	}
+
+	return 0;
 }
 
-// case 1: ~case 5: 是多路开关模式，即day的值为2、3、4、5时执行的是同一个语句
+// case 2: ~ case 5: 是多路开关模式，即day的值为2、3、4、5时执行的是同一个语句

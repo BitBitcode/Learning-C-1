@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int day = 0;
 
@@ -20,7 +20,9 @@ void main()
 	printf("请输入星期：（数字1~7）\n");
 	scanf_s("%d", &day);
 
-	if(day>Friday)
+	// 这里可以考虑加入检验输入是否正确的代码
+
+	if(day > Friday)
 	{
 		printf("嗯，今天是周末\n");
 		if (day == Saturday)
@@ -43,4 +45,6 @@ void main()
 			printf("周内呢，今天也要元气满满哦\n");
 		}
 	}
+
+	return 0;
 }

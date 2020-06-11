@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int i = 0;
 	char c = 0;
@@ -20,4 +20,6 @@ void main()
 		}
 	
 	printf("您一共输入了 %d 个字节，消费过万，打钱！\n", i);
+
+	return 0;
 }

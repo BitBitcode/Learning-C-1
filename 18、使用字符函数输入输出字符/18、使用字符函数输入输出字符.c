@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	char c1, c2, c3, c;
 	
@@ -35,6 +35,8 @@ void main()
 	//putchar(c2);
 	printf("getchar()函数接收到：%c \n", c3);
 	//putchar(c3);
+
+	return 0;
 }
 
 // 运行后发现scanf()函数仅对getchar()函数有影响

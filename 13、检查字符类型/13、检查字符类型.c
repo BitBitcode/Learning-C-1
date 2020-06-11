@@ -8,24 +8,23 @@
 // ASCII码值在97~122：小写字母
 // 除此之外是特殊字符
 
-
 #include <stdio.h>
 
-void main()
+int main()
 {
     char latter;
     printf("请输入一个字符：\n");
     latter = getchar();
     
-    if ((latter >= 48) && (latter <= 57))
+    if ((48 <= latter) && (latter <= 57))
     {
         printf("ASCII码值在48~57之间，%c 是数字 \n", latter);
     }
-    else if ((latter >= 65) && (latter <= 90))
+    else if ((65 <= latter) && (latter <= 90))
     {
         printf("ASCII码值在65~90之间，%c 是大写字母 \n", latter);
     }
-    else if ((latter >= 97) && (latter <= 122))
+    else if ((97 <= latter) && (latter <= 122))
     {
         printf("ASCII码值在97~122，%c 是小写字母 \n", latter);
     }
@@ -33,4 +32,6 @@ void main()
     {
         printf("%c 是特殊字符 \n", latter);
     }
+
+    return 0;
 }

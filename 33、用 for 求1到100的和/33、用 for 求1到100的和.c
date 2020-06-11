@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int i;
 	int sum = 0;
@@ -62,4 +62,6 @@ void main()
 	}
 	printf("我是省略第三个表达式计算的：1+2+3+...+99+100=%d \n", sum);
 	printf("此时的i=%d \n\n", i);
+
+	return 0;
 }

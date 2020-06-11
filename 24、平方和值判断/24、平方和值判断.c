@@ -7,7 +7,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int a, b, x, y;
 	printf("请输入a和b的值：（例：2,3）\n");
@@ -24,4 +24,6 @@ void main()
 	{
 		printf("a + b = %d \n", y);
 	}
+
+	return 0;
 }

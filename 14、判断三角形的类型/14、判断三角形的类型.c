@@ -5,11 +5,12 @@
 
 #include <stdio.h>
 
-void main()
+int main()
 {
     int a, b, c;
     printf("输入三角形的三边长度：\n");
     scanf_s("%d %d %d", &a, &b, &c);
+    
     if (a+b>c && b+c>a && a+c>b)
     {
         if (a==b==c)
@@ -33,4 +34,6 @@ void main()
     {
         printf("不能构成三角形！\n");
     }
+    
+    return 0;
 }

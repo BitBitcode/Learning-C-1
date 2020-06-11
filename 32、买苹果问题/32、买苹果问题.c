@@ -10,7 +10,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int day = 1;				// 天  数
 	int num = 2;				// 个  数
@@ -30,4 +30,6 @@ void main()
 	// 注意：最后一次循环是 64 个，两倍是 128，条件为假，跳出循环，但是天数多了 1 天
 	average = total / (day - 1);
 	printf("小雨平均每天花 %f 元。\n", average);
+
+	return 0;
 }

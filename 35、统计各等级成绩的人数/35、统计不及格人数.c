@@ -7,7 +7,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int i;					// 计数变量
 	int num;				// 学生总人数
@@ -27,4 +27,6 @@ void main()
 		}
 	}
 	printf("不及格人数为：%d \n", count);
+
+	return 0;
 }

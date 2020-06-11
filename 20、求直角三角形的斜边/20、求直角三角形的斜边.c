@@ -6,7 +6,7 @@
 #include<stdio.h>
 #include<math.h>
 
-void main()
+int main()
 {
 	float a, b, c;
 	printf("请输入三角形的直角边，中间用逗号隔开。例：3,4 \n");
@@ -14,4 +14,6 @@ void main()
 
 	c = sqrt(a * a + b * b);
 	printf("直角三角形的斜边为：%f", c);
+
+	return 0;
 }

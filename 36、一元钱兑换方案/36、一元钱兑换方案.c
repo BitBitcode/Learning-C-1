@@ -7,7 +7,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int i;						// 一角钱的个数
 	int n;						// 两角钱的个数
@@ -26,4 +26,6 @@ void main()
 			}
 		}
 	}
+	
+	return 0;
 }

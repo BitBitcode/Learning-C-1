@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int i;		// 空格的计数变量
 	int j;		// 星号的计数变量
@@ -28,6 +28,8 @@ void main()
 		}
 		printf("\n");
 	}
+
+	return 0;
 }
 
 

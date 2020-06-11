@@ -14,7 +14,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int m;				// 邮寄方式
 
@@ -88,4 +88,6 @@ void main()
 
 	total = origin_price * discount;
 	printf("折后价格为：%f \n", total);
+
+	return 0;
 }

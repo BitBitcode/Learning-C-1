@@ -1,11 +1,11 @@
 ﻿//《C语言从入门到精通》P85
 // 第三章 顺序与选择结构程序设计
 // 3.4 if 语句
-// 23、判断偶数.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
+// 23、判断偶数
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int num;
 
@@ -19,4 +19,6 @@ void main()
 	{
 		printf("你输入的是奇数！\n");
 	}
+
+	return 0;
 }

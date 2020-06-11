@@ -5,17 +5,17 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int i = 1;
 	int s = 1;
 	int n = 0;
 
-	printf("请输入要计算的阶乘：\n");
+	printf("请输入要计算阶乘的数字：\n");
 	scanf_s("%d", &n);
 
 	// 需要处理一下 0! = 1 的特殊情况
-	if (n==0)
+	if (n == 0)
 	{
 		printf("%d! = 1 \n", n);
 	}
@@ -28,4 +28,6 @@ void main()
 		}
 		printf("%d! = %d \n", n, s);
 	}
+
+	return 0;
 }

@@ -8,7 +8,7 @@
 #include<stdio.h>
 #include<math.h>
 
-void main()
+int main()
 {
 	int a, b, c, d;
 	int flag = 0;
@@ -55,4 +55,6 @@ REC:printf("请输入一个偶数：\n");
 	{
 		printf("不能拆分！\n");
 	}
+
+	return 0;
 }
