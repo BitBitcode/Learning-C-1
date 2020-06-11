@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-void main()
+int main()
 {
     int year = 0;
     printf("请输入要判断的年份：\n");
@@ -18,4 +18,6 @@ void main()
     {
         printf("%d 年不是闰年", year);
     }
+    
+    return 0;
 }

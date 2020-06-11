@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int num;
 	printf("请输入要判断的数：\n");
@@ -19,4 +19,6 @@ void main()
 	{
 		printf("该数不是5和7的倍数");
 	}
+
+	return 0;
 }
